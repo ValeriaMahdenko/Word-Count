@@ -1,0 +1,12 @@
+one
+two
+three
+hello
+yes
+element
+python
+language
+name
+surname
+you
+exception
